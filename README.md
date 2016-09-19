@@ -21,4 +21,8 @@ var options = {
 ```javascript
 $('.card').theAwesomeShadow(options);
 ```
+
+### Use NPM
+npm install jquery.theawesomeshadow --save-dev
+
 [https://www.graustich.com](https://www.graustich.com)
