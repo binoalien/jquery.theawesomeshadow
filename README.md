@@ -2,7 +2,7 @@
 jQuery plugin for shadow scroll animation
 
 For example look at index.html
-
+[https://binoalien.github.io/jquery.theawesomeshadow/](https://binoalien.github.io/jquery.theawesomeshadow/)
 
 ### Set Options
 ```javascript
