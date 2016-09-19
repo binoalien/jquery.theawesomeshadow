@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery theAwesomeShadow</title>
+    <link rel="stylesheet" href="dist/css/style.min.css">
+</head>
+<body>
+<div class="row">
+    <div class="column">
+        <div class="card">
+
+        </div>
+    </div>
+    <div class="column">
+        <div class="card">
+
+        </div>
+    </div>
+    <div class="column">
+        <div class="card">
+
+        </div>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="dist/js/jquery.theAwesomeShadow.min.js"></script>
+<script>
+    var options = {
+        minshadow: 5,                   // Min Shadow
+        maxshadow: 45,                  // Max Shadow
+        zoom: 1.019,                    // Scale/Zoom
+        tweak: -300,                    // Tweak (When animation starts and stops)
+        shadowcolor: 'rgba(0,0,0,0.4)', // Shadow Color
+        shadowLeftRight: 0,             // Shadow Horizontal Length
+        shadowTopBottom: 2              // Shadow Vertical Length
+    };
+    $('.card').theAwesomeShadow(options);
+</script>
+</body>
+</html>

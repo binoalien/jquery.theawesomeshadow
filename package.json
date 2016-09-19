@@ -1,0 +1,62 @@
+{
+  "name": "jquery.theawesomeshadow",
+  "version": "1.0.0",
+  "description": "jQuery Plugin for Shadow Scroll Animation",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binoalien/jquery.theawesomeshadow.git"
+  },
+  "author": "www.graustich.de",
+  "license": "GPL-3.0",
+  "homepage": "http://www.graustich.de",
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "graceful-fs": "^4.1.6",
+    "gulp": "^3.9.1",
+    "gulp-bytediff": "^1.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-load-plugins": "^1.3.0",
+    "gulp-minify": "0.0.14",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uncss": "^1.0.6",
+    "postcss-flexboxfixer": "0.0.5"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.4.1",
+    "graceful-fs": "^4.1.6",
+    "gulp": "^3.9.1",
+    "gulp-bytediff": "^1.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-load-plugins": "^1.3.0",
+    "gulp-minify": "^0.0.14",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uncss": "^1.0.6",
+    "postcss-flexboxfixer": "^0.0.5"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "scroll",
+    "scrolling",
+    "animation",
+    "shadow",
+    "scale",
+    "zoom"
+  ]
+}
