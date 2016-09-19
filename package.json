@@ -1,6 +1,6 @@
 {
   "name": "jquery.theawesomeshadow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jQuery Plugin for Shadow Scroll Animation",
   "main": "gulpfile.js",
   "scripts": {
