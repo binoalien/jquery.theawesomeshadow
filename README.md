@@ -4,7 +4,8 @@ jQuery plugin for shadow scroll animation
 For example look at index.html
 
 
-// Set Options
+### Set Options
+```javascript
 var options = {
         minshadow: 5,                   // Min Shadow
         maxshadow: 45,                  // Max Shadow
@@ -14,6 +15,9 @@ var options = {
         shadowLeftRight: 0,             // Shadow Horizontal Length
         shadowTopBottom: 2              // Shadow Vertical Length
     };
+```
 
-// Init jquery.theawesomeshadow
+### Init jquery.theawesomeshadow
+```javascript
 $('.card').theAwesomeShadow(options);
+```
