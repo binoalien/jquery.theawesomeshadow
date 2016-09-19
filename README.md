@@ -21,3 +21,4 @@ var options = {
 ```javascript
 $('.card').theAwesomeShadow(options);
 ```
+[https://www.graustich.com](https://www.graustich.com)
